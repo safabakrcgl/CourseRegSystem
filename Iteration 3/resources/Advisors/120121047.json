@@ -1,0 +1,81 @@
+{
+  "name": "Borahan",
+  "surname": "Tümer",
+  "advisorID": "120121047",
+  "username": "advisoro2",
+  "password": "maro2",
+  "advisedStudents": [
+    {
+      "username": "o150121011",
+      "name": "Emirhan",
+      "surname": "Ünsal",
+      "password": "mar2111",
+      "studentID": "150121011",
+      "advisor": null,
+      "transcript": {
+        "grades": []
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121047",
+      "name": "Hikmet",
+      "surname": "Topak",
+      "password": "mar2147",
+      "studentID": "150121047",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121065",
+      "name": "Azra",
+      "surname": "ÇetinTürk",
+      "password": "mar21065",
+      "studentID": "150121065",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121074",
+      "name": "Efe",
+      "surname": "Yalım",
+      "password": "mar2174",
+      "studentID": "150121074",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150122515",
+      "name": "Safa",
+      "surname": "Bakırcıoğlu",
+      "password": "mar21053",
+      "studentID": "150122515",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    }
+  ]
+}

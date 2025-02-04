@@ -1,0 +1,13 @@
+{
+    "username": "o150121060",
+    "name": "Helin",
+    "surname": "Zeybek",
+    "password": "mar21060",
+    "studentID": "150121060",
+    "transcript": {
+        "grades": []
+    },
+    "enrolledCourses": [],
+    "requestedCourses": [],
+    "advisor": null
+}

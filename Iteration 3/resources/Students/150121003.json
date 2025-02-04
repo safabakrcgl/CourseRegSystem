@@ -1,0 +1,111 @@
+{
+    "username": "o150121003",
+    "name": "Umut Çağlar",
+    "surname": "Çelik",
+    "password": "mar21003",
+    "studentID": "150121003",
+    "transcript": {
+        "grades": [
+            {
+                "course": {
+                    "courseId": "CSE2246",
+                    "courseName": "Analysis of Algorithms",
+                    "credit": 6,
+                    "prerequisite": false,
+                    "prerequisiteLessonId": "None",
+                    "courseSection": [
+                        {
+                            "day": "Tuesday",
+                            "place": "M1-Z01",
+                            "hour": "13:00-14:50"
+                        }
+                    ],
+                    "weeklyCourseCount": 0,
+                    "year": 0,
+                    "instructor": null,
+                    "enrollmentCapacity": 0,
+                    "currentCapacity": 0,
+                    "type": "Mandatory",
+                    "waitList": []
+                },
+                "gradeValue": "AA"
+            },
+            {
+                "course": {
+                    "courseId": "STAT2253",
+                    "courseName": "Probability and Statistics",
+                    "credit": 5,
+                    "prerequisite": false,
+                    "prerequisiteLessonId": "None",
+                    "courseSection": [
+                        {
+                            "day": "Wednesday",
+                            "place": "M1-Z01",
+                            "hour": "10:00-11:50"
+                        }
+                    ],
+                    "weeklyCourseCount": 0,
+                    "year": 0,
+                    "instructor": null,
+                    "enrollmentCapacity": 0,
+                    "currentCapacity": 0,
+                    "type": "Mandatory",
+                    "waitList": []
+                },
+                "gradeValue": "FF"
+            }
+        ]
+    },
+    "enrolledCourses": [
+        {
+            "courseId": "CSE2225",
+            "courseName": "Data Structures",
+            "credit": 7,
+            "prerequisite": false,
+            "prerequisiteLessonId": "None",
+            "courseSection": [
+                {
+                    "day": "Monday",
+                    "hour": "8:30-9:20",
+                    "place": "M1-Z01"
+                },
+                {
+                    "day": "Tuesday",
+                    "hour": "8:30-9:20",
+                    "place": "M1-Z01"
+                },
+                {
+                    "day": "Monday",
+                    "hour": "9:30-10:20",
+                    "place": "M1-Z01"
+                }
+            ],
+            "weeklyCourseCount": 3,
+            "year": 2,
+            "instructor": "Betül Boz",
+            "enrollmentCapacity": 5,
+            "currentCapacity": 0,
+            "type": "Mandatory",
+            "waitList": []
+        },
+        {
+            "courseId": "CSE4040",
+            "courseName": "Cloud Computing",
+            "credit": 5,
+            "prerequisite": false,
+            "prerequisiteLessonId": "None",
+            "courseSection": [],
+            "weeklyCourseCount": 3,
+            "year": 4,
+            "instructor": "Ali Fuat Alkaya",
+            "enrollmentCapacity": 5,
+            "currentCapacity": 0,
+            "type": "mandatory",
+            "waitList": [
+                {}
+            ]
+        }
+    ],
+    "requestedCourses": [],
+    "advisor": null
+}

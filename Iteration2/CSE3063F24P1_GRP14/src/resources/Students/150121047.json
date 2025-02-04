@@ -1,0 +1,83 @@
+{
+  "username" : "o150121047",
+  "name" : "Hikmet",
+  "surname" : "Topak",
+  "password" : "mar2147",
+  "studentID" : "150121047",
+  "transcript" : {
+    "grades" : [ {
+      "course" : {
+        "courseId" : "CSE2225",
+        "courseName" : "Data Structures",
+        "credit" : 7,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : [ ],
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null
+      },
+      "gradeValue" : "BB"
+    }, {
+      "course" : {
+        "courseId" : "CSE2246",
+        "courseName" : "Analysis of Algorithms",
+        "credit" : 6,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : [ {
+          "day" : "Tuesday",
+          "place" : "M1-Z01",
+          "hour" : "13:00-14:50"
+        } ],
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null
+      },
+      "gradeValue" : "CB"
+    }, {
+      "course" : {
+        "courseId" : "STAT2253",
+        "courseName" : "Probability and Statistics",
+        "credit" : 5,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : [ {
+          "day" : "Wednesday",
+          "place" : "M1-Z01",
+          "hour" : "10:00-11:50"
+        } ],
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null
+      },
+      "gradeValue" : "CC"
+    } ]
+  },
+  "advisor" : null,
+  "enrolledCourses" : [],
+  "requestedCourses" : [ {
+    "courseId" : "CSE3063",
+    "courseName" : "Object-Oriented Software Design",
+    "credit" : 5,
+    "prerequisite" : false,
+    "prerequisiteLessonId" : "None",
+    "courseSection" : [ ],
+    "weeklyCourseCount" : 2,
+    "year" : 3,
+    "instructor" : "Borahan Tümer",
+    "enrollmentCapacity" : 5,
+    "currentCapacity" : 4,
+    "status" : "Active",
+    "waitList" : [ ]
+  }]
+}

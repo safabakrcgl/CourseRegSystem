@@ -1,0 +1,71 @@
+{
+  "username" : "o150121074",
+  "name" : "Efe",
+  "surname" : "Yalım",
+  "password" : "mar2174",
+  "studentID" : "150121074",
+  "transcript" : {
+    "grades" : [ {
+      "course" : {
+        "courseId" : "CSE1241",
+        "courseName" : "Programming 1",
+        "credit" : 6,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : null,
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null
+      },
+      "gradeValue" : "FF"
+    } ]
+  },
+  "advisor" : null,
+  "enrolledCourses" : [ {
+    "courseId" : "CSE3033",
+    "courseName" : "Operating Systems",
+    "credit" : 7,
+    "prerequisite" : false,
+    "prerequisiteLessonId" : "None",
+    "courseSection" : [ {
+      "day" : "Thursday",
+      "place" : "M2-Z11",
+      "hour" : "11:30-12:20"
+    }, {
+      "day" : "Thursday",
+      "place" : "M2-Z11",
+      "hour" : "13:00-13:50"
+    } ],
+    "weeklyCourseCount" : 2,
+    "year" : 3,
+    "instructor" : "Betül Boz",
+    "enrollmentCapacity" : 5,
+    "currentCapacity" : 0,
+    "status" : "Active"
+  } ],
+  "requestedCourses" : [ {
+    "courseId" : "CSE2246",
+    "courseName" : "Analysis of Algorithms",
+    "credit" : 6,
+    "prerequisite" : false,
+    "prerequisiteLessonId" : "None",
+    "courseSection" : [ {
+      "day" : "Wednesday",
+      "place" : "M1-110",
+      "hour" : "10:30-11:20"
+    }, {
+      "day" : "Wednesday",
+      "place" : "M1-110",
+      "hour" : "11:30-12:20"
+    } ],
+    "weeklyCourseCount" : 2,
+    "year" : 2,
+    "instructor" : "Sanem Arslan",
+    "enrollmentCapacity" : 5,
+    "currentCapacity" : 0,
+    "status" : "Active"
+  } ]
+}

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccbbf479-8573-4087-96df-11ff59f1d0f8" name="Changes" comment="Json Files added and modified." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hikmettpk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Hikmettpk/CSE3063F24P1_GRP14&quot;,
+    &quot;accountId&quot;: &quot;75954660-3a5c-41dc-a6c9-5446178bbcda&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oFvdMABldLwaKMTgq0NEgAfhPK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.SystemController.executor": "Run",
+    "JUnit.CalculateTest.twoPlusTwoEqualFour.executor": "Run",
+    "JUnit.UnitTest.executor": "Run",
+    "JUnit.UnitTest.testGetTranscript.executor": "Run",
+    "JUnit.UnitTest.testListAvailableCourses.executor": "Run",
+    "JUnit.UnitTest.testToString.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "DepartmentScheduler",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/emran/Desktop/GitHub/CSE3063F24P1_GRP14/Iteration 1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SystemController">
+    <configuration name="SystemController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystemController" />
+      <module name="CSE3063F24P1_GRP14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateTest.twoPlusTwoEqualFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE3063F24P1_GRP14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculateTest" />
+      <option name="METHOD_NAME" value="twoPlusTwoEqualFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE3063F24P1_GRP14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testGetTranscript" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE3063F24P1_GRP14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest" />
+      <option name="METHOD_NAME" value="testGetTranscript" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testListAvailableCourses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE3063F24P1_GRP14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest" />
+      <option name="METHOD_NAME" value="testListAvailableCourses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SystemController" />
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.CalculateTest.twoPlusTwoEqualFour" />
+        <item itemvalue="JUnit.UnitTest.testListAvailableCourses" />
+        <item itemvalue="JUnit.UnitTest.testGetTranscript" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccbbf479-8573-4087-96df-11ff59f1d0f8" name="Changes" comment="" />
+      <created>1730478225184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730478225184</updated>
+      <workItem from="1730478226506" duration="2420000" />
+      <workItem from="1730616417568" duration="6417000" />
+      <workItem from="1730637923015" duration="5477000" />
+      <workItem from="1730645386760" duration="606000" />
+      <workItem from="1730841342279" duration="3777000" />
+      <workItem from="1731226634994" duration="5000" />
+      <workItem from="1731226683111" duration="2620000" />
+      <workItem from="1731231247408" duration="1294000" />
+      <workItem from="1731233637898" duration="1545000" />
+      <workItem from="1731235233365" duration="95000" />
+      <workItem from="1731235438768" duration="3217000" />
+      <workItem from="1731238709122" duration="211000" />
+      <workItem from="1731238929579" duration="876000" />
+      <workItem from="1731239888888" duration="2301000" />
+      <workItem from="1731268498150" duration="74000" />
+      <workItem from="1731268594095" duration="189000" />
+      <workItem from="1731268861293" duration="35000" />
+      <workItem from="1731269504579" duration="257000" />
+      <workItem from="1731269781167" duration="1937000" />
+      <workItem from="1731272454638" duration="1136000" />
+      <workItem from="1731273901705" duration="2097000" />
+      <workItem from="1731344418692" duration="2636000" />
+      <workItem from="1731394788236" duration="372000" />
+      <workItem from="1731395466168" duration="38000" />
+      <workItem from="1731395560503" duration="22000" />
+      <workItem from="1732796008368" duration="280000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic Json Files added">
+      <option name="closed" value="true" />
+      <created>1730480019415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730480019415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Json Files added and modified.">
+      <option name="closed" value="true" />
+      <created>1730625171016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730625171016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="JSONFile" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Json Files added" />
+    <MESSAGE value="Json Files added and modified." />
+    <option name="LAST_COMMIT_MESSAGE" value="Json Files added and modified." />
+  </component>
+</project>

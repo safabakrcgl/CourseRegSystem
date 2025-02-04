@@ -1,0 +1,29 @@
+{
+  "username" : "o150121074",
+  "name" : "Efe",
+  "surname" : "Yalım",
+  "password" : "mar2174",
+  "studentID" : "150121074",
+  "transcript" : {
+    "grades" : [ {
+      "course" : {
+        "courseId" : "CSE1241",
+        "courseName" : "Programming 1",
+        "credit" : 6,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : null,
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null
+      },
+      "gradeValue" : "FF"
+    } ]
+  },
+  "advisor" : null,
+  "enrolledCourses" : [ ],
+  "requestedCourses" : [ ]
+}

@@ -1,0 +1,29 @@
+{
+  "username" : "o150122515",
+  "name" : "Safa",
+  "surname" : "Bakırcıoğlu",
+  "password" : "mar21053",
+  "studentID" : "150122515",
+  "transcript" : {
+    "grades" : [ {
+      "course" : {
+        "courseId" : "CSE1241",
+        "courseName" : "Programming 1",
+        "credit" : 6,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : null,
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null
+      },
+      "gradeValue" : "BA"
+    } ]
+  },
+  "advisor" : null,
+  "enrolledCourses" : [  ],
+  "requestedCourses" : [ ]
+}

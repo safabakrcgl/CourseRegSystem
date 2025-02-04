@@ -1,0 +1,81 @@
+{
+  "username" : "o150121003",
+  "name" : "Umut Çağlar",
+  "surname" : "Çelik",
+  "password" : "mar21003",
+  "studentID" : "150121003",
+  "transcript" : {
+    "grades" : [ {
+      "course" : {
+        "courseId" : "CSE2246",
+        "courseName" : "Analysis of Algorithms",
+        "credit" : 6,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : [ {
+          "day" : "Tuesday",
+          "place" : "M1-Z01",
+          "hour" : "13:00-14:50"
+        } ],
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null,
+        "waitList" : null
+      },
+      "gradeValue" : "CC"
+    }, {
+      "course" : {
+        "courseId" : "STAT2253",
+        "courseName" : "Probability and Statistics",
+        "credit" : 5,
+        "prerequisite" : false,
+        "prerequisiteLessonId" : "None",
+        "courseSection" : [ {
+          "day" : "Wednesday",
+          "place" : "M1-Z01",
+          "hour" : "10:00-11:50"
+        } ],
+        "weeklyCourseCount" : 0,
+        "year" : 0,
+        "instructor" : null,
+        "enrollmentCapacity" : 0,
+        "currentCapacity" : 0,
+        "status" : null,
+        "waitList" : null
+      },
+      "gradeValue" : "AA"
+    } ]
+  },
+  "advisor" : null,
+  "enrolledCourses" : [ ],
+  "requestedCourses" : [ {
+    "courseId" : "CSE2225",
+    "courseName" : "Data Structures",
+    "credit" : 7,
+    "prerequisite" : false,
+    "prerequisiteLessonId" : "None",
+    "courseSection" : [ {
+      "day" : "Monday",
+      "place" : "M1-Z06",
+      "hour" : "8:30-9:20"
+    }, {
+      "day" : "Monday",
+      "place" : "M1-Z06",
+      "hour" : "9:30-10:20"
+    }, {
+      "day" : "Monday",
+      "place" : "M1-Z01",
+      "hour" : "10:30-11:20"
+    } ],
+    "weeklyCourseCount" : 3,
+    "year" : 2,
+    "instructor" : "Betül Boz",
+    "enrollmentCapacity" : 5,
+    "currentCapacity" : 0,
+    "status" : "Active",
+    "waitList" : [ ]
+  } ]
+}

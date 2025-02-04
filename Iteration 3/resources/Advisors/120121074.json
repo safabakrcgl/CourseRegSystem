@@ -1,0 +1,118 @@
+{
+  "name": "Betül",
+  "surname": "Boz",
+  "advisorID": "120121074",
+  "username": "advisoro1",
+  "password": "maro1",
+  "advisedStudents": [
+    {
+      "username": "o150121003",
+      "name": "Umut Çağlar",
+      "surname": "Çelik",
+      "password": "mar21003",
+      "studentID": "150121003",
+      "advisor": null,
+      "transcript": {
+        "grades": []
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121010",
+      "name": "Enes",
+      "surname": "Gündüz",
+      "password": "mar21010",
+      "studentID": "150121010",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          {
+            "course": {
+              "courseId": "CSE1241",
+              "courseName": "Programming 1",
+              "credit": 6,
+              "prerequisite": false,
+              "prerequisiteLessonId": "None"
+            },
+            "gradeValue": "AA"
+          }
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121017",
+      "name": "Miray",
+      "surname": "Piyade",
+      "password": "mar21017",
+      "studentID": "150121017",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          {
+            "course": {
+              "courseId": "CSE1241",
+              "courseName": "Programming 1",
+              "credit": 6,
+              "prerequisite": false,
+              "prerequisiteLessonId": "None"
+            },
+            "gradeValue": "FF"
+          }
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121056",
+      "name": "Esra",
+      "surname": "Uğurbaş",
+      "password": "mar21056",
+      "studentID": "150121056",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          {
+            "course": {
+              "courseId": "CSE1241",
+              "courseName": "Programming 1",
+              "credit": 6,
+              "prerequisite": false,
+              "prerequisiteLessonId": "None"
+            },
+            "gradeValue": "FD"
+          }
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    },
+    {
+      "username": "o150121060",
+      "name": "Helin",
+      "surname": "Zeybek",
+      "password": "mar21060",
+      "studentID": "150121060",
+      "advisor": null,
+      "transcript": {
+        "grades": [
+          {
+            "course": {
+              "courseId": "CSE1241",
+              "courseName": "Programming 1",
+              "credit": 6,
+              "prerequisite": false,
+              "prerequisiteLessonId": "None"
+            },
+            "gradeValue": "CC"
+          }
+        ]
+      },
+      "enrolledCourses": [],
+      "requestedCourses": []
+    }
+  ]
+}

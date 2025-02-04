@@ -1,0 +1,136 @@
+[
+  {
+    "courseId": "CSE3045",
+    "courseName": "Digital Logic Design",
+    "credit": 6,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "day": "Monday",
+      "hour" : "13:00-14:50",
+      "semester" : 5,
+      "instructor": "Betül Boz",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE1241",
+    "courseName": "Programming 1",
+    "credit": 6,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "semester" : 1,
+      "instructor": "Sanem Arslan",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE3043",
+    "courseName": "Programming 2",
+    "credit": 5,
+    "prerequisite": true,
+    "prerequisiteLessonId": "CSE1241",
+    "courseSection": {
+      "term": "spring",
+      "instructor": "Sanem Arslan",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "EE2031",
+    "courseName": "Electric Circuits",
+    "credit": 5,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "instructor": "Borahan Tümer",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE3028",
+    "courseName": "Electronic Devices",
+    "credit": 6,
+    "prerequisite": true,
+    "prerequisiteLessonId": "EE2031",
+    "courseSection": {
+      "term": "spring",
+      "instructor": "Betül Boz",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE3050",
+    "courseName": "Introduction to Machine Learning",
+    "credit": 8,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "instructor": "Borahan Tümer",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE4050",
+    "courseName": "Introduction to NLP",
+    "credit": 7,
+    "prerequisite": true,
+    "prerequisiteLessonId": "CSE3050",
+    "courseSection": {
+      "term": "fall",
+      "instructor": "Borahan Tümer",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE4017",
+    "courseName": "Computer Systems",
+    "credit": 5,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "instructor": "Sanem Arslan",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE3022",
+    "courseName": "Database Systems",
+    "credit": 4,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "instructor": "Betül Boz",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  },
+  {
+    "courseId": "CSE3049",
+    "courseName": "Operating Systems",
+    "credit": 6,
+    "prerequisite": false,
+    "prerequisiteLessonId": "None",
+    "courseSection": {
+      "term": "fall",
+      "instructor": "Betül Boz",
+      "enrollmentCapacity": 5,
+      "status": "Active"
+    }
+  }
+]

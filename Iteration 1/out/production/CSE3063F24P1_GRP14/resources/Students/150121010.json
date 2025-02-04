@@ -1,0 +1,29 @@
+{
+  "username": "o150121010",
+  "name": "Enes",
+  "surname": "Gündüz",
+  "password": "mar21010",
+  "studentID": "150121010",
+  "enrolledCourses": [],
+  "advisor": null,
+  "requestedCourses": [],
+  "transcript": {
+    "grades":[
+      {
+        "course": {
+          "courseId": "CSE1241",
+          "courseName": "Programming 1",
+          "credit": 6,
+          "prerequisite": false,
+          "prerequisiteLessonId": "None",
+          "courseSection": {
+            "term": "fall",
+            "instructor": "Sanem Arslan",
+            "enrollmentCapacity": 5,
+            "status": "Active"
+          }},
+        "gradeValue": "AA"
+      }
+    ]
+  }
+}

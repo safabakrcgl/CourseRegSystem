@@ -1,0 +1,46 @@
+{
+    "username": "o150121047",
+    "name": "Hikmet",
+    "surname": "Topak",
+    "password": "mar2147",
+    "studentID": "150121047",
+    "transcript": {
+        "grades": []
+    },
+    "enrolledCourses": [
+        {
+            "courseId": "CSE4040",
+            "courseName": "Cloud Computing",
+            "credit": 5,
+            "prerequisite": false,
+            "prerequisiteLessonId": "None",
+            "courseSection": [
+                {
+                    "day": "Monday",
+                    "hour": "8:30-9:20",
+                    "place": "M1-Z01"
+                },
+                {
+                    "day": "Monday",
+                    "hour": "9:30-10:20",
+                    "place": "M1-Z01"
+                },
+                {
+                    "day": "Monday",
+                    "hour": "10:30-11:20",
+                    "place": "M1-Z01"
+                }
+            ],
+            "weeklyCourseCount": 3,
+            "year": 4,
+            "instructor": "Ali Fuat Alkaya",
+            "enrollmentCapacity": 5,
+            "currentCapacity": 0,
+            "type": "Elective",
+            "waitList": []
+        }
+    ],
+    "requestedCourses": [],
+    "advisor": null,
+    "notifications": []
+}

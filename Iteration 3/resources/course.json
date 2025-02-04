@@ -1,0 +1,164 @@
+[
+    {
+        "courseId": "CSE2225",
+        "courseName": "Data Structures",
+        "credit": 7,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [],
+        "weeklyCourseCount": 3,
+        "year": 2,
+        "instructor": "Betül Boz",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 0,
+        "type": "Mandatory",
+        "waitList": []
+    },
+    {
+        "courseId": "CSE2246",
+        "courseName": "Analysis of Algorithms",
+        "credit": 6,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [
+            {
+                "day": "Friday",
+                "hour": "13:00-13:50",
+                "place": "M2-Z06"
+            },
+            {
+                "day": "Friday",
+                "hour": "14:00-14:50",
+                "place": "M2-Z06"
+            }
+        ],
+        "weeklyCourseCount": 2,
+        "year": 2,
+        "instructor": "Sanem Arslan",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 0,
+        "type": "Mandatory",
+        "waitList": []
+    },
+    {
+        "courseId": "STAT2253",
+        "courseName": "Probability and Statistics",
+        "credit": 5,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [],
+        "weeklyCourseCount": 2,
+        "year": 2,
+        "instructor": "Borahan Tümer",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 1,
+        "type": "Mandatory",
+        "waitList": []
+    },
+    {
+        "courseId": "CSE3055",
+        "courseName": "Object-Oriented Software Design",
+        "credit": 5,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [],
+        "weeklyCourseCount": 2,
+        "year": 3,
+        "instructor": "Borahan Tümer",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 1,
+        "type": "Mandatory",
+        "waitList": []
+    },
+    {
+        "courseId": "CSE3033",
+        "courseName": "Operating Systems",
+        "credit": 7,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [],
+        "weeklyCourseCount": 2,
+        "year": 3,
+        "instructor": "Betül Boz",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 0,
+        "type": "Mandatory",
+        "waitList": []
+    },
+    {
+        "courseId": "IE3081",
+        "courseName": "Modeling and Simulation",
+        "credit": 4,
+        "prerequisite": true,
+        "prerequisiteLessonId": "STAT2253",
+        "courseSection": [],
+        "weeklyCourseCount": 3,
+        "year": 3,
+        "instructor": "Sanem Arslan",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 1,
+        "type": "Mandatory",
+        "waitList": []
+    },
+    {
+        "courseId": "CSE4061",
+        "courseName": "Compiler Design",
+        "credit": 5,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [],
+        "weeklyCourseCount": 3,
+        "year": 4,
+        "instructor": "Betül Boz",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 1,
+        "type": "Elective",
+        "waitList": []
+    },
+    {
+        "courseId": "CSE4082",
+        "courseName": "Artificial Intelligence",
+        "credit": 5,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [],
+        "weeklyCourseCount": 3,
+        "year": 4,
+        "instructor": "Ali Haydar Özer",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 1,
+        "type": "Elective",
+        "waitList": []
+    },
+    {
+        "courseId": "CSE4040",
+        "courseName": "Cloud Computing",
+        "credit": 5,
+        "prerequisite": false,
+        "prerequisiteLessonId": "None",
+        "courseSection": [
+            {
+                "day": "Monday",
+                "hour": "8:30-9:20",
+                "place": "M1-Z01"
+            },
+            {
+                "day": "Monday",
+                "hour": "9:30-10:20",
+                "place": "M1-Z01"
+            },
+            {
+                "day": "Monday",
+                "hour": "10:30-11:20",
+                "place": "M1-Z01"
+            }
+        ],
+        "weeklyCourseCount": 3,
+        "year": 4,
+        "instructor": "Ali Fuat Alkaya",
+        "enrollmentCapacity": 5,
+        "currentCapacity": 0,
+        "type": "Elective",
+        "waitList": []
+    }
+]

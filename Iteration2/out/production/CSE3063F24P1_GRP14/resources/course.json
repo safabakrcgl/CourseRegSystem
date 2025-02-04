@@ -1,0 +1,127 @@
+[ {
+  "courseId" : "CSE2225",
+  "courseName" : "Data Structures",
+  "credit" : 7,
+  "prerequisite" : false,
+  "prerequisiteLessonId" : "None",
+  "courseSection" : [ {
+    "day" : "Monday",
+    "place" : "M1-Z06",
+    "hour" : "8:30-9:20"
+  }, {
+    "day" : "Monday",
+    "place" : "M1-Z06",
+    "hour" : "9:30-10:20"
+  }, {
+    "day" : "Monday",
+    "place" : "M1-Z01",
+    "hour" : "10:30-11:20"
+  } ],
+  "weeklyCourseCount" : 3,
+  "year" : 2,
+  "instructor" : "Betül Boz",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 0,
+  "status" : "Active",
+  "waitList" : [ ]
+}, {
+  "courseId" : "CSE2246",
+  "courseName" : "Analysis of Algorithms",
+  "credit" : 6,
+  "prerequisite" : false,
+  "prerequisiteLessonId" : "None",
+  "courseSection" : [ ],
+  "weeklyCourseCount" : 2,
+  "year" : 2,
+  "instructor" : "Sanem Arslan",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 0,
+  "status" : "Active",
+  "waitList" : [ ]
+}, {
+  "courseId" : "STAT2253",
+  "courseName" : "Probability and Statistics",
+  "credit" : 5,
+  "prerequisite" : false,
+  "prerequisiteLessonId" : "None",
+  "courseSection" : [ ],
+  "weeklyCourseCount" : 2,
+  "year" : 2,
+  "instructor" : "Borahan Tümer",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 0,
+  "status" : "Active",
+  "waitList" : [ ]
+}, {
+  "courseId" : "CSE3055",
+  "courseName" : "Database Systems",
+  "credit" : 7,
+  "prerequisite" : true,
+  "prerequisiteLessonId" : "CSE2225",
+  "courseSection" : [ {
+    "day" : "Monday",
+    "place" : "M1-Z01",
+    "hour" : "8:30-9:20"
+  }, {
+    "day" : "Monday",
+    "place" : "M1-Z01",
+    "hour" : "9:30-10:20"
+  } ],
+  "weeklyCourseCount" : 2,
+  "year" : 3,
+  "instructor" : "Betül Boz",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 0,
+  "status" : "Active",
+  "waitList" : [ ]
+}, {
+  "courseId" : "CSE3055",
+  "courseName" : "Operating Systems",
+  "credit" : 7,
+  "prerequisite" : false,
+  "prerequisiteLessonId" : "None",
+  "courseSection" : [ {
+    "day" : "Monday",
+    "place" : "M1-Z01",
+    "hour" : "8:30-9:20"
+  }, {
+    "day" : "Monday",
+    "place" : "M1-Z01",
+    "hour" : "9:30-10:20"
+  } ],
+  "weeklyCourseCount" : 2,
+  "year" : 3,
+  "instructor" : "Betül Boz",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 0,
+  "status" : "Active",
+  "waitList" : [ ]
+}, {
+  "courseId" : "CSE3063",
+  "courseName" : "Object-Oriented Software Design",
+  "credit" : 5,
+  "prerequisite" : false,
+  "prerequisiteLessonId" : "None",
+  "courseSection" : [ ],
+  "weeklyCourseCount" : 2,
+  "year" : 3,
+  "instructor" : "Borahan Tümer",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 4,
+  "status" : "Active",
+  "waitList" : [ "150121056", "150121060" ]
+}, {
+  "courseId" : "IE3081",
+  "courseName" : "Modeling and Simulation",
+  "credit" : 4,
+  "prerequisite" : true,
+  "prerequisiteLessonId" : "STAT2253",
+  "courseSection" : [ ],
+  "weeklyCourseCount" : 3,
+  "year" : 3,
+  "instructor" : "Sanem Arslan",
+  "enrollmentCapacity" : 5,
+  "currentCapacity" : 0,
+  "status" : "Active",
+  "waitList" : [ ]
+} ]

@@ -1,0 +1,66 @@
+{
+  "username": "o150121011",
+  "name": "Emirhan",
+  "surname": "Ünsal",
+  "password": "mar2111",
+  "studentID": "150121011",
+  "transcript": {
+    "grades": [
+      {
+        "course": {
+          "courseId": "CSE1241",
+          "courseName": "Programming 1",
+          "credit": 6,
+          "prerequisite": false,
+          "prerequisiteLessonId": "None",
+          "courseSection": {
+            "term": "fall",
+            "day": null,
+            "hour": null,
+            "semester": 0,
+            "instructor": "Sanem Arslan",
+            "enrollmentCapacity": 5,
+            "status": "Active"
+          }
+        },
+        "gradeValue": "FF"
+      }
+    ]
+  },
+  "advisor": null,
+  "enrolledCourses": [
+    {
+      "courseId": "CSE3049",
+      "courseName": "Operating Systems",
+      "credit": 6,
+      "prerequisite": false,
+      "prerequisiteLessonId": "None",
+      "courseSection": {
+        "term": "fall",
+        "day": null,
+        "hour": null,
+        "semester": 0,
+        "instructor": "Betül Boz",
+        "enrollmentCapacity": 5,
+        "status": "Active"
+      }
+    },
+    {
+      "courseId": "CSE3022",
+      "courseName": "Database Systems",
+      "credit": 4,
+      "prerequisite": false,
+      "prerequisiteLessonId": "None",
+      "courseSection": {
+        "term": "fall",
+        "day": null,
+        "hour": null,
+        "semester": 0,
+        "instructor": "Betül Boz",
+        "enrollmentCapacity": 5,
+        "status": "Active"
+      }
+    }
+  ],
+  "requestedCourses": []
+}
